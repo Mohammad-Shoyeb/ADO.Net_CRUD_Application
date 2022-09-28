@@ -1,0 +1,104 @@
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.AssemblyReference.cache
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\obj\Debug\R50_1268013.AddStudents.resources
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\obj\Debug\R50_1268013.EditStudents.resources
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\obj\Debug\R50_1268013.FormStart.resources
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\obj\Debug\R50_1268013.Properties.Resources.resources
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.GenerateResource.cache
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.CoreCompileInputs.cache
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\bin\Debug\StudentSubject.mdf
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\bin\Debug\StudentSubject_log.ldf
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\bin\Debug\R50_1268013.exe.config
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\bin\Debug\R50_1268013.exe
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\bin\Debug\R50_1268013.pdb
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\obj\Debug\R50_1268013.exe
+C:\Users\Shoyeb\Desktop\ADO project\R50_1268013\R50_1268013\obj\Debug\R50_1268013.pdb
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\StudentSubject.mdf
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\StudentSubject_log.ldf
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\R50_1268013.exe.config
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\R50_1268013.exe
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\R50_1268013.pdb
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.AssemblyReference.cache
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.AddStudents.resources
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.EditStudents.resources
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.EditSubjects.resources
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.FormStart.resources
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.Properties.Resources.resources
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.GenerateResource.cache
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.CoreCompileInputs.cache
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.exe
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.pdb
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.AssemblyReference.cache
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.AddStudents.resources
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.AddSubjects.resources
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.EditStudents.resources
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.EditSubjects.resources
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.FormStart.resources
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.Properties.Resources.resources
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.GenerateResource.cache
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.CoreCompileInputs.cache
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.exe
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.pdb
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\StudentSubject.mdf
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\StudentSubject_log.ldf
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\R50_1268013.exe.config
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\R50_1268013.exe
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\R50_1268013.pdb
+F:\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\StudentSubject.mdf
+F:\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\StudentSubject_log.ldf
+F:\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\R50_1268013.exe.config
+F:\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\R50_1268013.exe
+F:\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\R50_1268013.pdb
+F:\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.AssemblyReference.cache
+F:\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.AddStudents.resources
+F:\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.AddSubjects.resources
+F:\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.EditStudents.resources
+F:\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.EditSubjects.resources
+F:\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.FormStart.resources
+F:\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.Properties.Resources.resources
+F:\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.GenerateResource.cache
+F:\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.csproj.CoreCompileInputs.cache
+F:\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.exe
+F:\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.pdb
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.AddSubjects.resources
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.StudentGroupReport.resources
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.StudentReport.resources
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\stdole.dll
+C:\Users\Lab-104-08\Desktop\1268013\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\stdole.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.StudentGroupReport.resources
+C:\Users\Shoyeb\Desktop\ADO Project\ADOproj1268013\R50_1268013\R50_1268013\obj\Debug\R50_1268013.StudentReport.resources
